@@ -5,7 +5,7 @@ Vue.config.productionTip = false
 
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css' //(根据版本路径不同会有差异，按照自己版本路径)
-// import '../theme/index.css' // element改变主题(建议百度)
+import '../theme/index.css' // element改变主题(建议百度)
 Vue.use(ElementUI)
 
 import '@/assets/css/common.css' // 共用css
