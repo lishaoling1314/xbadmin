@@ -1,18 +1,19 @@
-list:[
-    {
-       child:[],
-       code: null,
-       desc: null,
-       id: "4028812c72d57fa30172d593f8400002",
-       info: " {
-           "SUCCESSALL":0,
-           "FAILURE5393896bd36e4b708c069d4e1bb7c8b1":1,
-           "FAILUREALL":3,
-           "SUCCESS5393896bd36e4b708c069d4e1bb7c8b1":0,
-           "FAILURE7a775cebd5c64c789beb9012bebfad33":2,
-           "SUCCESS7a775cebd5c64c789beb9012bebfad33":0
-        }",
-        name: "2号楼",
-        parentId: ""
-     }
+ list:[
+      {
+         child:[],
+         code: null,
+         desc: null,
+         id: "4028812c72d57fa30172d593f8400002",
+         info: "{SUCCESSALL:0,FAILURE5393896bd36e4b708c069d4e1bb7c8b1:1,FAILUREALL:3, SUCCESS5393896bd36e4b708c069d4e1bb7c8b1:0,FAILURE7a775cebd5c64c789beb9012bebfad33:2,SUCCESS7a775cebd5c64c789beb9012bebfad33:0}",
+          name: "2号楼",
+          parentId: ""
+       }, {
+         child: [],
+         code: null,
+         desc: null,
+         id: "4028812c72d57fa30172d593f8400002",
+         info: "{SUCCESSALL:0, FAILURE5393896bd36e4b708c069d4e1bb7c8b1:1, FAILUREALL:3,SUCCESS5393896bd36e4b708c069d4e1bb7c8b1:0,FAILURE7a775cebd5c64c789beb9012bebfad33:2,SUCCESS7a775cebd5c64c789beb9012bebfad33:0}",
+          name: "2号楼",
+          parentId: ""
+       }
 ]
